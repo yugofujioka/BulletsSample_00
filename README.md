@@ -2,6 +2,7 @@
 Unity Fragments Vol.1　おまけ撃ちその１
 
 本プロジェクトで使用している TaskSystem / ObjectPool / CollisionPool はそれぞれMITとなりますが
+
 下記弾道制御のコードのみはCC0としています。
 
 
